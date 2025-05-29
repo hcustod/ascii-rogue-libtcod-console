@@ -1,7 +1,6 @@
 from __future__ import annotations
 
 import random
-from tkinter import Y
 from typing import Dict, Iterator, Tuple, List, TYPE_CHECKING
 
 import tcod
